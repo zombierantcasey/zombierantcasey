@@ -1,4 +1,4 @@
-I’m @zombierantcasey. I like Python, Go & Haskell. 
+I’m @zombierantcasey. I like Python & Go. 
 Work in networking currently. 
 
 
