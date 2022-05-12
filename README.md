@@ -1,3 +1,3 @@
-I’m @zombierantcasey. I like Python & Go. 
+I’m @zombierantcasey. 
 
 
